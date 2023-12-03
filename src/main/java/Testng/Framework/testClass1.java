@@ -26,5 +26,10 @@ public class testClass1 {
 	{
 		System.out.println("TC4 executed");
 	}
+	@Test
+	public void changes()
+	{
+		System.out.println("Changes wanna verify on git executed");
+	}
 	
 }
